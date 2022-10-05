@@ -33,6 +33,11 @@
       "hasStyle": true
     },
     {
+      "title": "3d Maze Escape",
+      "hash": "#3d-maze",
+      "view": "3d-maze"
+    },
+    {
       "title": "404",
       "hash": "#404",
       "view": "404",
